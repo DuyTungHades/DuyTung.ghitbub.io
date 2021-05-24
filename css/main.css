@@ -1,0 +1,394 @@
+ @charset "utf-8";
+/* CSS Document */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Banner1{
+    
+height: 100vh;
+background-image: url("../images/image.png");
+background-size: cover;
+background-position: center;
+    
+    
+}
+.Navbar-Panel {
+  width: 2200px;
+  height: 70px;
+  margin: 0 0 110px;
+  padding: 21px 0 0;
+  background-color: #000000;
+}
+.Logo01 {
+  width: 79px;
+  height: 27px;
+  margin: 0 582px 21px 150px;
+}
+.menu
+{
+	width: 600px;
+    height: 30px;
+	float: right;
+	margin: -51px 50px 50px 500px;;
+	background-size: 100%;
+
+}
+.main_menu
+{
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	font-size: 13pt;
+	
+}
+ul li a
+{
+	margin-left: 50px;
+	text-decoration: none;
+	float: left;
+	color: white;
+}
+.Logo02 {
+  width: 175px;
+  height: 60px;
+margin: 110px 871px 33px 354px;
+}
+.Text01
+{
+  width: 512px;
+  height: 70px;
+  margin: 33px 534px 36px 354px;
+  font-family: Raleway;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line- : normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+.hr{
+ width: 100px;
+ height: 1px;
+ background-color: azure; 
+}
+.Text02
+{opacity: 0.8;
+  font-family: Raleway;
+  font-size: 20px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.8);
+}
+.btn-outline-secondary{
+    color :#FFFFFF;
+    margin-top: 44px;
+}
+.Banner2{
+    
+width: 2200px;
+height: 150px;
+background-color: white;
+background-size: cover;
+background-position: center;
+box-shadow: 0px 1px 3px 0 rgba(0, 0, 0, 0.38);
+    
+}
+.Brand-Panel {
+  width: 2200px;
+  height: 150px;
+  padding: 22px 167px 22px 152px;
+  box-shadow: 0px 1px 3px 0 rgba(0, 0, 0, 0.38);
+  background-color: #ffffff;
+}
+.Text03
+{
+  width: 122px;
+  height: 17px;
+  font-family: OpenSans;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #333333;
+  margin: 10px 0px;
+}
+.Text04
+{opacity: 0.8;
+  font-family: Raleway;
+  font-size: 20px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+  text-align: left;
+  color: black (255, 255, 0.8);
+
+}
+.Social-Media-Icons{
+   width: 634px;
+  height: 200px;
+ margin: 10px 700px 100px;
+}
+.Banner3{
+width: 2200px;
+height: 595px;    
+background-color:white;
+background-size: cover;
+background-position: center;
+    
+}
+.Features-Panel-1 {
+ width: 2200px;
+ height: 595px;
+ background-color: #f5f5f5;
+ padding: 100px 148px 100px 142px;
+}
+.image01{
+  width: 112px;
+  height: 112px;
+  margin: 0 99px 110px 0;
+  padding: 10px 37px 100px 35px;
+}
+.Text05{
+  width: 344px;
+  height: 21px;
+  margin: -80px 50px 120px 50px;
+  font-family: OpenSans;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+#btn-tb{
+    width: 112px;
+    height: 112px;
+    color: #FFFFFF;
+}
+#btn-tb:hover{
+    background-color:#ff8b38;
+    border: none;
+}
+#btn-tb01{
+    width: 120px;
+    height: 50px;
+    color: #FFFFFF;
+}
+#btn-tb01:hover{
+    background-color:#ff8b38;
+    border: none;
+}
+.image02 {
+  width: 112px;
+  height: 112px;
+  margin: -200px 99px 300px 1300px;
+  padding: 10px 37px 100px 35px;
+}
+.Banner4{
+width: 2200px;
+height: 595px;    
+background-color:#FFFFFF;
+background-size: cover;
+background-position: center;
+    
+}
+.Features-Panel-2 {
+ width: 2200px;
+ height: 595px;
+ background-color:#FFFFFF;
+ padding: 100px 148px 100px 142px;
+}
+.image03 {
+  width: 525px;
+  height: 375px;
+  margin: 4px 157px 0 157px;
+}
+.Text06 {
+ width: 344px;
+  height: 21px;
+  margin: -650px 50px 120px 850px;
+  font-family: OpenSans;
+  font-size: 10px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: black (255, 255, 0.8);
+  opacity: 0.8;
+}
+.Text07{
+  color: black (255, 255, 0.8);
+  opacity: 0.8;
+  font-size: 15px;  
+       
+}
+.hr1{
+ width: 80px;
+ height: 1px;
+ background-color:#FF8B38;
+}
+.Text08{
+ ;
+  font-size: 15px;
+  margin: -50px 60px;
+       
+}
+.Text09{
+  font-size: 15px;
+  margin: 60px 60px;
+  color: black (255, 255, 0.8);
+  opacity: 0.8
+}
+.Banner5{
+width: 2200px;
+ height: 595px;
+background-color:#F5F5F5; 
+background-position: center; 
+ box-shadow: 0px 1px 3px 0 rgba(0, 0, 0, 0.38);
+}
+.Features-Panel-3 {
+ width: 2200px;
+ height: 595px;
+background-color: #f5f5f5;
+padding: 100px 148px 100px 142px;
+box-shadow: 0px 1px 3px 0 rgba(0, 0, 0, 0.38);
+
+}
+.image04 {
+ width: 344px;
+  height: 21px;
+  margin: -650px 50px 120px 850px;
+
+}
+.Text10 {
+ width: 344px;
+  height: 21px;
+  margin: -650px 50px 120px 850px;
+  font-family: OpenSans;
+  font-size: 10px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  
+}
+.Banner6{
+width: 2200px;
+height: 595px;    
+background-color:white;
+background-size: cover;
+background-position: center;
+margin: 50px;
+    
+}
+.Our-Process-Panel {
+ width: 2000px;
+ height: 595px;
+ background-color:white;
+ padding: 100px 148px 100px 142px;
+
+}
+.Text11{
+     width: 500px;
+  height: 70px;
+    margin: -50px 560px 1000px ;
+    
+}
+.hr2{
+ width: 80px;
+ height: 1px;
+ background-color:#FF8B38;
+ margin: -970px 770px 1000px ;    
+}
+.Text12{
+    width: 500px;
+  height: 14px;
+    margin: -980px 560px 1000px ;
+    
+}
+.image05 {
+  width: 70px;
+  height: 70px;
+  margin: -1670px -100px 29px 140px;
+}
+.Banner7{
+width: 2200px;
+height: 880px;    
+background-color:#f5f5f5;
+background-size: cover;
+background-position: center;
+margin: 50px;
+    
+}
+.Our-Process-Panel1 {
+ width: 2000px;
+ height: 880px;
+ background-color:#f5f5f5;
+ padding: 100px 148px 100px 142px;
+
+}
+.image06 {
+  width: 100px;
+  height: 100px;
+  margin: -1670px -100px 29px 140px;
+}
+.Banner8{
+width: 2000px;
+height: 320px;    
+background-color:#f5f5f5;
+background-size: cover;
+background-position: center;
+background-image: url("../images/u25_state0.png") ;
+margin: 50px;  
+}
+.Our-Process-Panel2 {
+ width: 2000px;
+ height: 320px;
+ background-color:#f5f5f5;
+ padding: 100px 148px 100px 142px;
+ background-image: url("../images/u25_state0.png") ;
+}
+.Text13{
+     width: 500px;
+  height: 70px;
+    margin: -50px 560px 1000px ;
+    color: #FFFFFF;
+}
+.hr2{
+ width: 80px;
+ height: 1px;
+ background-color:#FF8B38;
+ margin: -970px 770px 1000px ;    
+}
+.Text14{
+    width: 500px;
+  height: 14px;
+    margin: -980px 560px 1000px ;
+    color: #FFFFFF;
+    
+}
+.btn-secondary1{
+    color :#FFFFFF;
+    margin: -1850px 250px 29px 200px;
+}
+
+
